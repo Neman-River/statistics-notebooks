@@ -8,7 +8,9 @@ A collection of statistics practice notebooks covering exploratory data analysis
 |----------|-------|---------|
 
 | `central_limit_theorem_CI.ipynb` | Central Limit Theorem, standard error, confidence intervals (z vs t) | simulated data |
+
 | `hypothesis_testing.ipynb` | Hypothesis testing with digital marketing data — metric distributions, spread analysis | `conversion.csv` |
+
 | `statistical_inference.ipynb` | London bike rentals time series — anomaly detection via rolling statistics and confidence intervals | `london.csv` |
 
 ## Stack
