@@ -1,13 +1,14 @@
 # Statistics Notebooks
 
-A collection of statistics practice notebooks covering exploratory data analysis, inferential statistics, hypothesis testing, and anomaly detection.
+A statistics learning workspace covering descriptive statistics, probability theory, hypothesis testing, and inferential statistics through hands-on Jupyter notebooks.
 
 ## Notebooks
 
 | Notebook | Topic | Dataset |
 |----------|-------|---------|
+| `descriptive_statistics.ipynb` | Central tendency, spread, distributions, box plots, trends over time | `games.csv` |
 | `central_limit_theorem_CI.ipynb` | Central Limit Theorem, standard error, confidence intervals (z vs t) | simulated data |
-| `hypothesis_testing.ipynb` | Hypothesis testing with digital marketing data — metric distributions, spread analysis | `conversion.csv` |
+| `hypothesis_testing.ipynb` | Hypothesis testing — metric distributions, spread analysis | `conversion.csv` |
 | `statistical_inference.ipynb` | London bike rentals time series — anomaly detection via rolling statistics and confidence intervals | `london.csv` |
 
 ## Stack
