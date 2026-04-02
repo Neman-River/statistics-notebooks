@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+iframe_figures/
+CLAUDE.md
+tasks1.ipynb
+tasks2.ipynb
+tasks3.ipynb
+lecture3.ipynb
+.ipynb_checkpoints/
