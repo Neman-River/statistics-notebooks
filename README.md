@@ -4,15 +4,19 @@ A statistics learning workspace covering descriptive statistics, probability the
 
 ## Notebooks
 
-| Notebook | Topic | Dataset |
-|----------|-------|---------|
-| `descriptive_statistics.ipynb` | Central tendency, spread, distributions, box plots, trends over time | `games.csv` |
-| `central_limit_theorem_CI.ipynb` | Central Limit Theorem, standard error, confidence intervals (z vs t) | simulated data |
-| `hypothesis_testing.ipynb` | Hypothesis testing — metric distributions, spread analysis | `conversion.csv` |
-| `statistical_inference.ipynb` | London bike rentals time series — anomaly detection via rolling statistics and confidence intervals | `london.csv` |
-| `t-test_annova.ipynb` | Z vs T scores, log transformation, Welch's t-test (CPC vs CPM), one-way ANOVA (platform comparison) | `ads_data.csv`* |
+Ordered from foundational to advanced:
 
-*`ads_data.csv` is not tracked in git (235 MB). Download separately and place in the project root.
+| # | Notebook | Topic | Dataset |
+|---|----------|-------|---------|
+| 01 | `01_descriptive_statistics.ipynb` | Central tendency, spread, distributions, box plots, trends over time | `games.csv` |
+| 02 | `02_central_limit_theorem_CI.ipynb` | Central Limit Theorem, standard error, confidence intervals (z vs t) | simulated data |
+| 03 | `03_hypothesis_testing.ipynb` | Hypothesis testing — metric distributions, spread analysis | `conversion.csv` |
+| 04 | `04_t-test_annova.ipynb` | Z vs T scores, log transformation, Welch's t-test (CPC vs CPM), one-way ANOVA (platform comparison) | `ads_data.csv`* |
+| 05 | `05_statistical_inference.ipynb` | London bike rentals time series — anomaly detection via rolling statistics and confidence intervals | `london.csv` |
+| 06 | `06_ab_test_basic.ipynb` | Full A/B test: experimental design, normality testing, multiple tests (t / Mann-Whitney / permutation), effect size (Cohen's d) | `pizza_delivery.csv`* |
+
+*Large datasets not tracked in git. Download separately and place in the project root.
+
 
 ## Stack
 
