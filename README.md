@@ -22,7 +22,7 @@ Ordered from foundational to advanced:
 
 ## Stack
 
-Python 3.12 · pandas · numpy · scipy · matplotlib · seaborn · plotly
+Python 3.12 · pandas · numpy · scipy · statsmodels · pingouin · matplotlib · seaborn · plotly
 
 ## Running
 
